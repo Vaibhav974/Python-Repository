@@ -1,0 +1,9 @@
+NB	Wolfram Mathematica Notebook (see Wolfram Language)	Mathematica
+NC	Binary Data	netCDF software package
+NC	Instructions for NC (Numerical Control) machine	CAMS
+NC	Name code program	namec-git/namec software package
+NCD	NC Drill File (Excellon Format, printed circuit board hole definitions)	Most PCB layout software
+NEF[29]	Nikon RAW image format	Nikon cameras
+NEIS	Korean Student Record Document	(Student Record Writing Program)
+NEO	Raster graphics file	Atari Neochrome
+NEU	Pro/Engineer neutral file format	PTC Pro/Engineer

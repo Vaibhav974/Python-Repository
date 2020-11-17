@@ -1,0 +1,784 @@
+A	archive file	ar (Unix)
+ACCDB[1]	Microsoft Access Database	Microsoft Access Database (Open XML)
+ACCFT[2]	Microsoft Access Data Type Template	Microsoft Access
+ADICHT	LabChart data acquisition file	ADInstruments
+ADT	Abrechnungsdatentransfer, an xDT application	Healthcare providers in Germany
+ADX	Document	Archetype Designer
+ADZ	Amiga Disk Zipped (See Amiga Disk File)	GZip
+AGR	ArcView ASCII grid	
+AHK	AutoHotkey script file	AutoHotkey
+AI[3]	Adobe Illustrator Artwork	Adobe Illustrator
+AIFF	Audio Interchange File Format	Convert (c) Villena
+AIO	APL programming language file transfer format file	
+AIR	Adobe AIR installation package	The Adobe AIR runtime environment
+AKM	"Akai Multitimbral" sample information file	Akai S5000 and S6000 hardware samplers (MS-DOS-based) and compatible software samplers
+AKP	"Akai Program" sample information file	Akai S5000 and S6000 hardware samplers (MS-DOS-based) and compatible software samplers
+ALC	Molecular coordinates	Alchemy, RasMol
+ALE	Avid Log Exchange (used in film & video editing)	Avid
+ALL	General printer information	WordPerfect for Win
+AMF[4][5]	Additive Manufacturing File Format	Computer Aided Design Software
+AMG	System image file	ACTOR
+AML[6]	AutomationML	AutomationML Group
+AMLX[6]	Compressed and packed AutomationML file	AutomationML Group
+AMPL	AMPL source code file	AMPL
+ANI[7]	Animation cursors for Win	Win95 - WinNT
+ANN	Annotations of old Windows Help file	Windows 3.0 - XP
+APE	Monkey's Audio (Lossless)	audio media players
+AR	Argon - for 3D Modeling	Ashlar-Vellum
+ARC[8]	ARC (file format)	
+ART[9]	Gerber format	Cadence Allegro, Eagle
+ASAX[10]	ASP.NET global application file	
+ASCX[10]	ASP.NET User Control	
+ASF[11]	Advanced Streaming Format (Compressed Windows audio/video)	Microsoft Corporation
+ASHX	ASP.NET handler file[10]	
+ASM	Assembler language source	TASM, MASM, NASM, Yasm, FASM
+ASX[12]	Advanced Stream Redirector file, redirects to an ASF file (see ASF)	Microsoft Corporation
+AT3[13]	Atrac 3 Sound/music file	All Sony devices and programs with the Atrac 3+ specification
+ATY	Produced when an association type is exported by 3D Topicscape	3D Topicscape
+AVI[14][15]	Audio Video Interleave	Video for Windows
+AWK	AWK script/program	awk, GNU Awk, mawk, nawk, MKS AWK, Awka (compiler)
+AXF[16]	"lightweight geodatabase"	ESRI ArcPad
+
+B	BASIC language source or Grand Theft Auto 3 save file	
+BAR	Broker Archive. Compressed file containing number of other files for deployment.[17]	IBM WebSphere Message Broker
+BAS	BASIC language source	QuickBASIC - GW-BASIC - FreeBASIC - others
+BAT	Batch file	MS-DOS, RT-11
+BDT	Behandlungsdatentransfer, an xDT application	Healthcare providers in Germany
+BEAM	Executable bytecode file in fat binary format	BEAM (Erlang virtual machine)[18]
+BM3	UIQ3 Phone backup	
+BMP[19]	OS/2 or Win graphics format (BitMap Picture)	QPeg - CorelDraw - PC Paintbrush - many
+BPS	WPS backup file[20]	Microsoft Word, Microsoft Works
+BZ2[21]	Archive	bzip2
+
+C--	C-- language source	Sphinx C--
+C	C language source
+C	Unix file archive	COMPACT
+C++	C++ language source
+CPP	C++ language source	
+C32	COMBOOT Executable (32-bit)	SYSLINUX
+CAB[23]	Cabinet archive	Windows 95 and later, many file archivers
+CBT	COMBOOT Executable (incompatible with DOS COM files)	SYSLINUX
+CD	ASP.NET class diagram file[10]	
+CDF[24]	Common Data Format	
+CDF[25]	Computable Document Format	Mathematica
+CDR[26]	Vector graphics format (drawinF	CorelDraw
+CER[27]	Security certificate	Microsoft Windows
+CGM[28][29]	Computer Graphics Metafile vector graphics	A&L - HG - many
+CHM[30]	Compiled Help File	Microsoft Windows, Help Explorer Viewer
+CHO[31]	ChordPro lead sheet (lyrics and chords)	ChordPro and similar tools
+CIF[32][33]	Crystallographic Information File	RasMol, Jmol
+CLASS[34]	Java class file	Java
+CMD	Command Prompt batch file	Microsoft Windows NT based operating systems
+CMD[35]	executable programs	CP/M-86 operating system
+CMOD[36]	Celestia Model	Celestia
+COE[37]	Coefficient file	Xilinx ISE
+COMPILE[10]	ASP.NET precompiled stub file	
+COPAC	Copac bibliographic reference file	
+CPC[38]	Compressed image	Cartesian Perceptual Compression
+CPL[39]	Control panel file	Windows 3.x
+CR2[40]	Raw image format	Canon digital cameras
+CRAI[41]	CRAM index	
+CRT[42]	Security certificate	Microsoft Windows
+CSPROJ[43][44]	C# project file	Microsoft Visual Studio
+CSS[45]	cascading style sheet	
+CSV[46]	Comma Separated Values text file format (ASCII)	
+
+D	D Programming Language source file	DMD
+D	Directory containing configuration files (informal standard)	Unix
+D3V	Video file	Nintendo DS (with ARME, MMCF etc.)
+D4D	Data	Draw 4D object
+D4P	Data	Draw 4D Pro object
+D64	Commodore 64 disk image	
+D88	Toshiba Pasopeia D88 disk image format	A series of emulators of Japanese computers
+DAA	Direct Access Archive	
+DAE	COLLADA file	
+DAF	Data file	Digital Anchor
+DAL	Digidim system	Helvar Digidim Toolbox
+DAT	AMPL data file	AMPL
+DAT	Maxum chromatograph chromatogram	Siemens Maxum Chromatograph
+DAT	LDraw (Sub)Part File, 3D Model	LDraw
+DAT	Document	Microsoft Word Format (old)
+DAT	data	RSNetWorx Project
+DAT	Data file in special format or ASCII	
+DAT	Database file	Clarion (programming language)
+DAT	Norton Utilities disc image data. It saves Boot sector, part of FAT and root directory in image.DAT on same drive.	Norton Utilities
+DAT	Optical disc image (can be ISO9660, but not restricted to)	cdrdao, burnatonce
+DAT	Video CD MPEG stream
+DAT	Windows registry hive (REG.DAT Windows 3.11; USER.DAT and SYSTEM.DAT Windows 95, 98, and ME; NTUSER.DAT Windows NT/2000/XP/7)	Microsoft Windows
+DAT	Minecraft game data	Minecraft
+DATS	Dynamic source	ATS
+DAV	Proprietary DVR format	Recorded encrypted video from digital video recorders DVR365 or AlienDVR series[47]
+DB$	Temperature debug info	Clarion Modula-2
+DB$	Temporary file	dBASE
+DB	Database file	Paradox - XTreeGold - dbvista - Oracle - XoftSpySE - Windows thumbnail cache[48][49]
+DB	Configuration	dBASE IV - dBFast
+DB	Multi Edit config	ME
+DB2	Database	dBASE II
+DB3	Database	dBASE III
+DBA	Database file	Turbo Prolog - DataEase
+DBA	DarkBasic source code	
+DBC	DataBaseContainer	Visual FoxPro
+DBD	Business data	Business Insight
+DBD	Debug info	Clarion Modula-2
+DBF	Database file	dBASE III/IV - Visual FoxPro - dBFast - DataBoss - DBVista - CA-Clipper - Visual Objects - Alaska Xbase++ -Advantage Database Server
+DBFX	DevBox Database File	Pudince Devbox
+DBG	Debugger script	DOS debug - Watcom debugger
+DBG	Symbolic debugging information	Microsoft C/C++
+DBK	Database backup	dBASE IV
+DBL	DIBOL source file	
+DBL	Design Block file	EAGLE
+DBM	Datafile	DataEase
+DBM	Menu template	DataBoss
+DBO	Compiled program	dBASE IV
+DBPro	DarkBasicPro Project	
+DBS	Data file used by Managing Your Money	
+DBS	Database in SQL Windows format	
+DBS	Datafile	PRODAS
+DBS	Printer description file	Microsoft Word, Microsoft Works
+DBT	FoxBASE+ style memo	FoxPro 2.x
+DBT	Memo file for database w/same name	dBASE IV - dBFast
+DBW	Windows file	DataBoss
+DBX	DataBeam	GCGW
+DBX	AutoCAD Database	AutoCAD
+DBX	Archive File	Outlook Express
+DC	CAD drawing file	DesignCAD 3000 for Windows
+DC6	Image file	Diablo II
+DCA	Document Content Architecture text file	IBM DisplayWrite
+DCC	Animation	Diablo II
+DCD	CAD Drawing File	DesignCAD 3DMax for Windows
+DCH	Schematic Drawing file	DipTrace Schematic Capture
+DCI	Dreamcast Save File	Dreamcast
+DCL	Delphi Control Library	Borland Delphi
+DCM	DCM music module	AWAVE
+DCP	OS/2 device code page	OS/2
+DCS	Bitmap graphics (CYMK format)	QuarkXPress
+DCS	Datafile	ACT! Activity Files
+DCT	Dictionary: used by many programs with program dependent format	Clarion
+DCT	Spell checking dictionary	Harvard Graphics 3.0 - Symphony
+DCT	DataBaseContainer Extension	Visual FoxPro
+DCU	Delphi unit (compiled)	Borland Delphi
+DCW	Walter Machine Programing	Walter Profile Editor
+DCX	Multi-page PCX graphics (common fax format)	Intel - SpectraFAX
+DCX	DataBaseContainer Index	Visual FoxPro
+DD	Macintosh file archive	DiskDoubler
+DDA	Data	GLBasic ASCII 3D object
+DDB	Bitmap graphics	
+DDB	Digidesign Database File	Digidesign Pro Tools
+DDD	Building Diagram	Diagramming software
+DDI	Disk image	DiskDupe
+DDP	Device Driver Profile file	OS/2
+DDS	DirectDraw Surface file	Microsoft Flight Simulator, other Microsoft programs
+DEB	Unix archive file (software package format)	Unix
+DEB	DEBUG script	DOS Debug
+DEF	Assembly header file	Geoworks
+DEF	Defaults - definitions	
+DEF	Linker definition file	TLink - WLink...
+DEM	Demonstration	
+DEM	Digital Elevation Model	
+DEM	Graphics file	VistaPro
+DEM	Vista DEM file	Meta.exe VP3
+DER	Security certificate	Microsoft Windows
+DES	Ascii text parameter description	AWAVE
+DESKLINK	Windows Explorer Desktop Control (commonly "Desktop (create shortcut).DESKLINK", 0 bytes). Uses a 'special' hidden file extension (NeverShowExt flag inside the Registry), overriding the Windows Explorer option of showing/hiding file extensions.	
+desktop	Desktop Entry	freedesktop.org
+DEV	Device driver	
+DEV	SYSGEN handler build procedure	RT-11
+DEV	Dev-C++ project file	Dev-C++
+DEX	Dalvik executable	Android
+DFD	Data Flow Diagram graphic file	Prosa
+DFF	RenderWare model data (e.g. Grand Theft Auto III and later)	
+DFF	Audio file created by converting the audio format from an SACD. Normally found on torrenting sites like The Pirate Bay.	
+DFI	Outline font description	Digifont
+DFL	Default program settings	Signature
+DFM	Data Flow Diagram model file	Prosa
+DFM	Delphi form module	Borland Delphi
+DFPWM	Dynamic Filter Pulse Width Modulation (audio codec)	Java (specifically, the Computronics modification for Minecraft)
+DFS	Delight Sound File	
+DFTI	Dynamic Formatted Text and Images (Word Processing)	FlexiWrite
+DFV	Printing form (Word)	Microsoft Word
+DFX	Micrografx Effects DLL	
+DGN	Graphics file	MicroStation
+DGS	Diagnostics	
+DH	Dependency information for .ph	Geoworks
+DHP	Dr. Halo PIC Format graphics file	Dr. Halo II - III
+DHT	Datafile	Gauss
+DI	D Programming Language interface file	DMD
+DIA	Diagraph graphics file	Computer Support Corporation
+DIB	Device Independent Bitmap	rarely used Windows 3.0 bitmap; Win - OS/2
+DIC	Dictionary (e.g. from WinWord)	
+DICOM	Digital Imaging and Communications in Medicine (DICOM) bitmap	DICOM Software (XnView)
+DIF	Borland patch data file	Borland patch
+DIF	Data Interchange Format	Visicalc
+DIF	OS/2 V2.2 Display Information File	OS/2
+DIF	Output from Diff command - script for Patch command	
+DIF	SRCCOM, BINCOM output file	RT-11
+DIG	Digilink	AWAVE
+DIG	Sound Designer 1 audio file	AWAVE
+DIP	Graphics	
+DIP	Watcom debug info processor	WatcomDebugger
+DIP	PCB Drawing file	DipTrace PCB Layout
+DIR	Dialing directory file	Procomm Plus
+DIR	Directory file	VAX - CPS Backup
+DIR	Movie	MacroMind Director 4.x
+DIR	Directory listing file	RT-11
+DIRED	Directory listing (ls format)	Dired
+DIS	Distribution file	VAX Mail
+DIS	Thesaurus	CorelDraw
+DIZ	Description file (Description In Zip)	
+DJVU	DJVU Document Format, a format similar to PDF but with higher compression rates at the same quality.	DJVU
+DKB	Raytraced graphics	DKBTrace
+DL	Animation format (Italian origin)	Display - DL Viewer
+DLC	JDownloader Link Container	JDownloader
+DLD		Lotus 1-2-3
+DLF	Dialogue Live Format	Produced by Exstream Dialogue and edited by Dialogue Live Editor
+DLG	Dialog resource script file	Microsoft Windows SDK
+DLG	Dialog resources	DN
+DLG	Windows SDK dialog editor data file	
+DLG	Windows SDK dialog editor data file	
+DLL	Dynamic-link library	Windows 3.x - OS/2
+DLL	Export/import filter	CorelDRAW
+DLM	Microsoft File Transfer Manager	Microsoft File Transfer Manager
+DLP	Data	DAQLab
+DLS	Setup	Norton Disklock
+DMF	Music format (Delusion Digital Music File)	Delusion
+DMF	DeleD files	
+DMG	Apple Disk Image	Mac OS X (Disk Utility),
+DMO	Demo	Derive
+DMP	Dump file (e.g. screen or memory)	
+DMP	DUMP utility output file	RT-11
+DN	Dimension model format	Adobe Dimension [50]
+DNG[51]	Digital Negative, a-publicly available archival format for the raw files generated by digital cameras	At least 30 camera models from at least 10 manufacturers, and at least 200 software products
+DOC[52][53][54][52]	A Document, or an ASCII text file with text formatting codes in with the text; used by many word processors	Microsoft Word and others
+DOCM	Microsoft Word Macro-Enabled Document	Microsoft Word
+DOCX	Microsoft Word Document	Microsoft Word[55]
+DOCHTML	Microsoft Word HTML Document	Microsoft Word
+DOCMHTML	Microsoft Word MIME HTML Document	Microsoft Word
+DOT	Microsoft Word 97 - 2003 Template	Microsoft Word
+DOTM	Microsoft Word Macro-Enabled Template	Microsoft Word
+DOTX	Microsoft Word Template	Microsoft Word
+DOTHTML	Microsoft Word HTML Template	Microsoft Word
+DOF	Delphi project options file	Borland Delphi
+DOG	Screen file	Laughing Dog Screen Maker
+DOH	Dependency information for .poh	Geoworks
+DOL	Nintendo Wii and GameCube proprietary executable format	Nintendo Wii and GameCube games and software
+DOR	Roland Digital audio file	Roland
+DOT	Microsoft Word document template	Microsoft Word
+DOTX	Office Open XML Text document template	Microsoft Word
+DPF	Debrief Plot File	Debrief
+DPX[56][57]	Digital Moving Picture Exchange	
+DRU	Design Rules	EAGLE
+DS	Data file used by Adobe Dimension	
+DSC[58]	Celestia Deep Space Catalog file	Celestia
+DTD[59]	Document Type Definition	
+DW2	Drawing	DesignCAD for DOS, & DesignCAD for Windows
+DWF	Autodesk Design Web Format	Design Review
+DWG[60]	Drawing	AutoCAD, IntelliCAD, PowerCAD, Drafix, DraftSight etc.
+DXF[61]	Drawing Interchange File Format vector graphics	AutoCAD, IntelliCAD, PowerCAD, etc.
+DXP	SpotFire data	TIBCO Spotfire
+
+E	E language source code	E
+E##	EnCase Evidence File chunk	EnCase Forensic Analysis Suite entity
+E00	ArcInfo interchange file	GIS software
+E2D	2-dimensional vector graphics file	Editor included in JFire
+e57	A file format developed by ASTM International for storing point clouds and images	Most software that enables viewing and/or editing of 3D point clouds
+EBD	versions of DOS system files (AUTOEXEC.BAT, COMMAND.COM, CONFIG.SYS, WINBOOT.SYS, etc. ) for an emergency boot disk	Windows 98, ME
+EC	Source code	eC
+ECC	Error-checking file	dvdisaster
+EDE	Ensoniq EPS disk image	AWAVE
+EDF	European data format	Medical timeseries storage files
+EFI	Extensible Firmware Interface	
+EIS	EIS Spectrum Analyser Project	EIS Spectrum Analyser
+EL	Emacs Lisp source code file	Emacs
+ELC	Byte-compiled Emacs Lisp code	Emacs
+EMAIL	Outlook Express Email Message	Windows Live Mail, Outlook Express, Microsoft Notepad
+EMAKER	E language source code (maker)	E
+EMF	Microsoft Enhanced Metafile	
+EML	Stationery Template	Outlook Express
+EMZ	Microsoft Enhanced Metafile compressed with ZIP	Microsoft Office suite	
+EOT	Embedded OpenType	
+EP	GUI wireframe/prototype project	Prikhi Pencil, Evolus Pencil
+EPA	Award BIOS splash screen	Award BIOS, XnView
+EPS	Encapsulated PostScript	CorelDraw - PhotoStyler - PMView - Adobe Illustrator - Ventua Publisher
+EPUB	Electronic Publication - (e-Reader format)	Okular (Linux) - Apple iBooks - Sony Reader - Adobe Digital Editions - Calibre (LMW)
+ERL	Erlang source code file	
+ES6	ECMAScript 6 file	
+ESCPCB	Data file of "esCAD pcb", PCB Pattern Layout Design Software	esCAD pcb provided by Electro-System
+ESCSCH	Data file of "esCAD sch", Drawing Schematics Diagram Software	esCAD sch provided by Electro-System
+ESD	Windows Imaging Format	ImageX, DISM, 7-Zip, wimlib
+ETL	event trace log file	Microsoft[62][63]
+EVT	Windows Event log file	Microsoft Windows NT 4.0 - XP; Microsoft Event Viewer
+EVTX	Windows Event log file XML structured	Microsoft Windows Vista, 7, 8; Microsoft Event Viewer
+EX	Elixir source code file	Elixir programming language running on BEAM (Erlang virtual machine)[64]
+EXE	Directly executable program	DOS, OpenVMS, Microsoft Windows, Symbian or OS/2
+EXP	Drawing File format	Drawing Express
+EXP	Melco Embroidery Format	Embroidermodder
+EXS	Elixir script file	Interactive Elixir (IEx) shell[65]
+EZW	easyOFFER document file[66]	easyOFFER by Reagency Systems Corp.
+
+F	Archive	FREEZE
+F	Forth language source code file	Forth development systems
+F	Fortran language source code file (in fixed form)	Many Fortran compilers
+F01	Fax	perfectfax
+F03	Fortran language source code file (in free form)	Many Fortran compilers
+F08	Fortran language source code file (in free form)	Fortran compilers
+F18	Fortran language source code file (in free form)	Fortran compilers
+F4	Fortran IV source code file	Fortran IV source code
+F4V[1]	A container format for Flash Video that differs from the older FLV file format (see also SWF)	Adobe Flash
+F77	Fortran language source code file (in fixed form)	Many Fortran compilers
+F90	Fortran language source code file (in free form)	Many Fortran compilers
+F95	Fortran language source code file (in free form)	Many Fortran compilers
+FA[2][3][4]	FASTA format sequence file	
+FAA[2][3][4]	FASTA format amino acid	
+FASTA[2][3][4]	FASTA format sequence file	
+FASTQ[2][3][4]	FASTQ format sequence file	
+FB2[5]	FictionBook e-book 2.0 file (DRM-free XML format)	e-book readers
+FBX [6]	3D model geometry, material textures, lighting, armature, and animation sequences for inter application use/transport	Autodesk
+FEN[7]	Forsyth–Edwards Notation	Chess applications -text data describes a specific position.
+FFN[3][4][2]	FASTA format nucleotide of gene regions	
+FITS.[8][9]	Flexible Image Transport System	astronomy software
+FLAC[10]	Audio codec, Audio file format	
+FLAME	Fractal configuration file	Apophysis
+FLV[11]	A container format for Flash Video (see also SWF)	Adobe Flash
+FNA[2][3][4]	FASTA format nucleic acid	
+FNI	FileNet Native Document	FileNet
+FODT[12]	OpenDocument Flat XML Document	LibreOffice
+FOR	Fortran language source file	many
+FRM[13]	MySQL Database Metadata	MySQL
+FS	F# source file	F# compilers
+
+GBR[14]	Gerber format	PCB CAD/CAM
+GDF[15]	General Data Format for Biomedical Signals	Biomedical signal processing, Brain Computer Interfaces
+GDT	Gerätedatentransfer, an xDT application	Healthcare providers in Germany
+GED[16]	GEDCOM	Genealogy data exchange
+GGB	GeoGebra File	GeoGebra
+GIF[17]	Compuserves' Graphics Interchange Format (bitmapped graphics)	QPeg - Display - CompuShow
+GML[18]	Geography Markup Language File	Geography Markup Language
+GO	Go source code file	Golang
+GPX[19][20]	GPS eXchange Format	
+GTF[21]	Gene transfer format	
+GV[22]	Graph Visualization	Graphviz
+
+H!	On-line help file	Flambeaux Help! Display Engine
+H!	Pertext database	HELP.EXE
+H--	C—language header	Sphinx C--
+H	Header file (usually C language)	Watcom C/C++
+H++	Header file	C++
+HA	Archive	HA
+HACK	Source file for the programming language hack	The HHVM[23]
+HAR[24]	HTTP Archive format (JSON-format web-browser log)	W3C draft standard
+HDMP	heap dumpfile	
+HH	C++ header file	
+HOF	Basic Configuration file	OMSI The Bus Simulator
+HPP	C++ header file	Zortech C++ - Watcom C/C++
+HTA	HTML Application	Microsoft Windows
+HTM	see HTML	
+HTML[25]	Hypertext Markup Language (WWW)	Netscape - Mosaic - many
+HUM	3D Model database	OMSI The Bus Simulator
+HXX	C++ header file
+
+ICC[26]	ICC profile	Color Configuration for color input or output devices
+ICE	LHA Archive	Cracked LHA (old LHA), Total Commander
+ICO	Icon file	ICONEDIT.EXE; Microsoft Windows
+IFC[27]	Industry Foundation Classes (platform neutral, open file format used by BIM software). It is registered by ISO and is an official International Standard ISO 16739-1:2018.	BIM software
+IGC[28]	Flight tracks downloaded from GPS devices in the International Gliding Commission's prescribed format	
+IGES[29]	Initial Graphics Exchange Specification	
+IO[30]	Archive	CPIO
+IPT	XnView IPTC template	XnView, XnViewMP
+ISO	ISO-9660 table	see: List of ISO image software
+IT	Impulse Tracker music file	Impulse Tracker
+
+J2C[31]	JPEG 2000 image	JPEG 2000
+JAR[32]	Java archive	JAR, Java Games and Applications
+JAV[33]	see JAVA	
+JAVA[33]	Java source code file	
+JBIG[34][35][36]	Joint Bilevel Image Group	
+JNLP[37]	Java Network Launching Protocol	Java Web Start
+JP2[31]	JPEG 2000 image	
+JPEG[38]	Joint Photographic Experts Group graphics file format	Minolta/Konica Minolta cameras use this for JPEGs in Adobe RGB color space
+JPEG[38]	Joint Photographic Experts Group graphics file format	QPeg - FullView - Display
+JPEG[38]	Joint Photographic Group	various (Minolta/Konica Minolta cameras use this for JPEGs in sRGB color space)
+JS[39]	JavaScript file	script in HTML pages
+JSON[40][41]	JSON (JavaScript Object Notation)	Ajax
+JSP[42]	Jakarta Server Pages	Dynamic pages running Web servers using Java technology
+
+KML[43][44]	Keyhole Markup Language	Google Earth
+KMZ[43][44]	Keyhole Markup Language (Zip compressed)	Google Earth
+KT	Kotlin source code	Kotlin Programming Language
+
+LBR	.LBR Archive	for CP/M and MS-DOS using the LU program
+LDT	Labordatenträger, an xDT application	Healthcare providers in Germany
+LHA	LHA Archive	LHA/LHARC, Total Commander
+LISP	LISP source code file	
+LL	LLVM Assembly Language	llvm
+LUA	Lua script file	Microsoft Visual C++, Notepad++
+LY	LilyPond Notation File	LilyPond
+LZ	Archive	Lzip
+
+M[1]	Mathematica Package File	Mathematica
+M	MATLAB M-File	MATLAB
+M	Mercury Source File	Mercury
+M[2]	Source code	Objective-C
+MCF[3]	Multimedia Container Format (predecessor of Matroska)	
+MD[4]	Markdown-formatted text file	Markdown
+MDF[5]	Master Data File, a Microsoft SQL Server file type	Microsoft SQL Server
+MDF	Measurement Data Format, a binary file format for vector measurement data[6]	automotive industry, developed by Robert Bosch GmbH
+MDI	Document save in high-resolution, created by MSOffice to scan documents (OCR) and turn them into a .DOC	Microsoft Office
+MDG	Digital Geometry (Programmable CAD) file format, developed by DInsight	Digital Geometric Kernel
+MDL	Model	3D Design Plus or Simulink
+MDS	Midi Session	Sound Imp.
+MEX[7]	MEX file (executable command)	Matlab
+MGF[8]	Materials and Geometry Format	
+MID	Standard MIDI file	music synthetizers, Winamp
+MM[2]	Source code	Objective-C++
+MMPZ	LMMS Compressed Project File	LMMS
+MNT	Surface metrology or image analysis document	MountainsMap
+MOBI[9]	eBook	Mobipocket, Kindle
+MOD	AMPL model file	AMPL
+MOD	Modula language source	
+MOD	MODULA-2 source code file	Clarion Modula-2
+MODULES	Module	GTK+
+MOL	MDL Molfile	RasMol
+MOL2[10][11]	Tripos Sybyl MOL2 Format	SYBYL, RasMol
+MOP	MOPAC input file	MOPAC, RasMol
+MOV[12]	Animation format (Mac)	QuickTime, AutoCAD AutoFlix
+MP2[13][14]	Mpeg audio file	Winamp, xing
+MP3[15][16]	MPEG audio stream, layer 3	AWAVE, CoolEdit(+PlugIn), Winamp, many others
+MP4[17]	multimedia container format, MPEG 4 Part 14	Winamp
+MPA	MPEG audio stream, layer 1,2,3	AWAVE
+MPC	Musepack audio	
+MPD	LDraw file (multi-part DAT file)	LDraw
+MPEG[18][19][20]	multimedia containter format, video, audio	MPEG Player, Winamp
+MPG	see MPEG	
+MSC	management saved console[21]	Microsoft; Microsoft MMC[22]
+MSDL[23]	Manchester Scene Description Language	
+MSF[24][25]	Multiple sequence file (Pileup format)	
+MSI	Windows Installer Package	Windows operating systems
+MSO	Microsoft Outlook metadata for a Microsoft Word 2000 email attachment[26]	Microsoft Outlook
+MXF[27][28]	Material exchange format (RFC 4539, SMPTE 377M)	
+MYD	a MyISAM data file in MySQL	MyISAM, MySQL
+MYI	a MyISAM index file in MySQL	MyISAM, MySQL
+
+NB	Wolfram Mathematica Notebook (see Wolfram Language)	Mathematica
+NC	Binary Data	netCDF software package
+NC	Instructions for NC (Numerical Control) machine	CAMS
+NC	Name code program	namec-git/namec software package
+NCD	NC Drill File (Excellon Format, printed circuit board hole definitions)	Most PCB layout software
+NEF[29]	Nikon RAW image format	Nikon cameras
+NEIS	Korean Student Record Document	(Student Record Writing Program)
+NEO	Raster graphics file	Atari Neochrome
+NEU	Pro/Engineer neutral file format	PTC Pro/Engineer
+NIM	Nim source code file	Nim
+nmf	Node Map File	Used by SpicyNodes
+NPR	Nuendo Project File	Steinberg Nuendo
+NRW[30]	Nikon Coolpix RAW image	Nikon
+NS1	NetStumbler file	NetStumbler
+NSA	media	Nullsoft Streaming Audio
+NSV	media	Nullsoft Streaming Video
+NUMBERS	Numbers spreadsheet file	Numbers
+
+O	Object file	UNIX - Atari - GCC
+OBJ	Compiled machine language code	
+OBJ	Object code	Intel Relocatable Object Module
+OBJ	Wavefront Object	
+OBS	Script	ObjectScript
+OCX	OLE custom control	
+OPUS	Ogg/Opus audio file	mpv, mplayer, many others (official file format).
+ORG	Emacs Org mode	Emacs Org mode major mode
+ORG	Older Origin Project	Origin versions 4 or earlier
+OSC	OpenStreetMap Changeset	OpenStreetMap
+OSM	OpenStreetMap data	OpenStreetMap
+OSM	OpenStreetMap note	OpenStreetMap
+OST	Offline Storage Table	Microsoft e-mail software: Outlook Express, Microsoft Outlook
+OTB	Over-the-air bitmap graphics	
+OTL	The Vim Outliner	A vim plugin
+OV2	Overlay file (part of program to be loaded when needed)	TomTom Point of Interest
+OWL[31][32]	Web ontology language (OWL) file	Protégé and other ontology editors
+OXT	OpenOffice.org extension	OpenOffice.org / LibreOffice
+
+P	Database PROGRESS source code	PROGRESS
+P	PASCAL source code file	
+P	Parser source code file	
+P10	Certificate Request	
+P12	Personal Information Exchange	"Crypto Shell Extensions"
+PACK[33]	Pack200 Packed Jar File	
+PAGES	Pages document file	Pages
+PAK	Archive	Pak
+PAL	Paint Shop Pro color palette (JASC format)	PaintShop Pro, XnView
+PAM	PAM Portable Arbitrary Map graphics format	Netpbm
+PAR	Parity Archive	[34]
+PAR2	Parity Archive v2	[35]
+PAS	Pascal language source	Borland Pascal
+PBLIB	Power Library	PowerBASIC
+PBO	A file type used by Bohemia Interactive	Arma 3, PBO Manager
+PCL[36][37]	HP-PCL graphics data file	HP Printer Command Language
+PCS	PCSurvey file	PCSurvey by Softart - Land Surveying Software
+PDB[38]	debugging data	Microsoft Windows
+PDB[39]	Molecule (protein data bank)	
+PDE	source code file	Processing programming language
+PDF	Adobe's Portable Document Format	Adobe Acrobat Reader
+PDI	Portable Database Image	
+PDM	Program	Deskmate
+PDM	PowerDesigner's physical data model (relational model) file format	PowerDesigner
+PDM	Visual Basic (VB) Project Information File	Visual Basic
+PDN	Image file	Paint.NET
+PDS	PALASM Design Description	
+PDS	Planetary Data System Format	
+PEM	A text-based certificate file defined in RFC 1421 through RFC 1424[40]	Applications that need to use cryptographic certificates, including web-servers
+pet	package[41]	Puppy Linux
+PFA	PostScript Font File	
+PFA	Type 3 font file (unhinted PostScript font)	
+PFAM	PFAM format[42]	
+PFB	PostScript font	Adobe Type Manager (ATM)
+PFC	(Personal Filing Cabinet) contains e-mail, preferences and other personal information	AOL
+PFM[43]	PostScript Type 1 font metric file	Microsoft Windows, Adobe Acrobat Reader
+PFM[43]	Windows Type 1 font metric file	
+PGN[44]	Portable Game Notation -Text specification for Chess game	Most chess playing computer applications
+PFX	An encrypted certificate file[40]	Applications that need to use cryptographic certificates, including web-servers
+PGL	HP Plotter vector graphics format	
+PHP	PHP file	
+PHP3	PHP 3 file	
+PHP4	PHP 4 file	
+PHY	Phylip format[42]	
+PHF	Database File	Nuverb Systems Inc: Donarius
+PHR	Phrases	LocoScript
+PI2	Portrait Innovations High Resolution Encrypted Image file	Portrait Innovations Studio2 (proprietary)
+PIE	GlovePIE script file	GlovePIE
+PIR	PIR format[42]	
+PIT	Compressed Mac file archive created by PACKIT	unpackit.zoo
+PIT	Partition Information Table for Samsung's smartphone with Android	Odin3
+PKL	Pickle file	Python object serialization
+PKA	Archive	PKARC
+PL	Perl source code file	
+PL	Prolog source code file	
+PL	IRAF pixel list	IRAF astronomical data format
+PLI	PL/I source file	PL/I compilers
+PM[45]	Perl module	
+PMA	PMarc Archive	
+POM[46]	Build manager configuration file	Apache Maven POM file
+PPTX	MS Office Open-XML Presentation	Microsoft PowerPoint[47]
+PPSX	MS Office Open-XML Auto-Play Presentation	Microsoft PowerPoint
+PRJ	Mkd (Unix command)	Mkd project file to extract documentation
+PROTO[48]	Message specification	Google Protocol Buffers
+PRP	Plasma Registry Page	Plasma (engine)
+PSD[49]	Photoshop bitmap file	Photoshop document
+PSM1[50]	Windows Powershell module	Windows Powershell
+PSPPALETTE[51]	Paint Shop Pro color palette (JASC format)	Paint Shop Pro 8.0 and newer
+PST	Archive File	Microsoft Outlook
+PS1	Windows Powershell script[50]	Windows PowerShell
+PTF	PlayStation Portable Theme file	PSP Theme settings menu
+PTF	Pro Tools Session File	Digidesign Pro Tools
+PUB	Public key ring file	Pretty Good Privacy RSA System
+PUF	Package Update File (Device firmware package, in ZIP format)	Crestron Toolbox
+PUP[24][25]	Pileup format	
+PY	Python script file	Python (programming language)
+
+QFX	Quicken-specific implementation of the OFX specification	Intuit Quicken
+QIF[52]	Quicken Interchange Format	Intuit Quicken
+QLC[43]	ATM Type 1 fonts script	Adobe Type Manager
+QT	QuickTime movie (animation)	
+QTVR	QuickTime VR Movie
+
+R	Ratfor file	Ratfor
+R	Script file	R
+R00, R01, ...	Part of a multi-file RAR archive	RAR
+R2D	Reflex 2 datafile	Reflex 2
+R3D	Red Raw Video (raw video data created with a Red camera)	Red Camera
+R8P	PCL 4 bitmap font file	Intellifont
+RAD	2-op FM music	Reality AdLib Tracker
+RAD	Radiance	Radiance
+RAL	Remote Access Language file	Remote Access
+RAM	Ramfile	RealAudio
+RAP	Flowchart	RAPTOR
+RAR	Archive	RAR
+RAS	Graphics format	SUN Raster
+RB	Ruby (programming language) Script file	
+RBXM	Roblox "model"	Roblox
+RBXL	Roblox "level"	Roblox
+RC	Configuration file	emacs, Vim (text editor), Bash (Unix shell)
+RC[53]	Resource Compiler script file	Microsoft C/C++, Borland C++
+RDP[54]	RDP connection	Remote Desktop connection
+RDS[55]	Data file	R
+RES[56]	Compiled resource	Microsoft C/C++, Borland C++
+RM[57]	RealMedia	RealPlayer
+RMVB[58]	RealMedia Variable Bitrate	RealPlayer
+RPM	Red Hat Package Manager	Red Hat Linux
+RS	Rust language source	
+RST	reStructuredText	Docutils
+RTF[59][60][61]	Rich Text Format text file (help file script)	many - Microsoft Word
+RUN	AMPL script file	AMPL
+RUN	Makeself shell self-extracting archive	shell
+
+S	assembler source code file	Unix
+S7I	Seed7 library / include file	Seed7 interpreter and compiler
+SAIF[1]	Spatial Archive and Interchange Format	
+SASS[2]	Sass stylesheet language, indented-format	
+SAT	ACIS ACIS .sat	
+SAV	SPSS "System File"	PSPP
+SB	Scratch project	Scratch
+SB2	Scratch 2.0 project	Scratch
+SB3	Scratch 3.0 project	Scratch
+SBH	Header	ScriptBasic
+SBX	For experimental extensions to Scratch	Used by scratchX (scratchx.org)
+SBX	Sequenced Box container	Used by SeqBox
+SCALA	Scala source code file	Scala (programming language)
+SCM	Scheme source code file	
+SCSS[2]	Saas stylesheet language, block-formatted with braces and semicolons to denote end-of-line	
+SD7	Seed7 source file	Seed7 interpreter and compiler
+SDS	Self Defining Structure provides for N-dimensional very large datasets using HHCode	geographic information systems and relational database management systems
+SDTS	Spatial Data Transfer Standard	
+SEC	Secret key ring file	Pretty Good Privacy RSA System
+SED	Self extraction directive file	IExpress
+SEQ	Video	Tiertex video sequence
+SF	JAR Digital Signature	
+SFB	Configuration file	emacs
+SFX	SFX (self-extracting archives) script	RAR
+SH	Unix shell script	Unix shell interpreter
+SHAR	Shell self-extracting archive	UNSHAR (Unix)
+SHTM	SSI-enabled HTM file	Server Side Includes
+SHTML	SSI-enabled HTML file	Server Side Includes
+SHX	Shape entities
+ESRI shapefile
+
+AutoCAD
+ArcGIS
+
+SIG	Signature file	gpg, PopMail, ThunderByte AntiVirus
+SL	S-Lang source code file	
+SM	SMALLTALK source code file	
+SMCLVL	Secret Maryo Chronicles Level	Secret Maryo Chronicles
+SMK	Smacker video Format (RAD Video)	
+SNO	SNOBOL4 source code file	
+SO	shared object, dynamically linked library	Unix, Linux
+SPF	data	SQR Portable Format
+SPIFF[3]	Still Picture Interchange File Format	
+SPIN	Spin source file	Parallax Propeller Microcontrollers
+SPT	SPITBOL source code file	
+SPX[4][5]	Ogg Speex bitstream	Xiph.Org Foundation
+SPZ	Crestron SIMPL Windows compiled program (ZIP format)	Crestron SIMPL Windows
+SQL	Structured Query Language	Any SQL database
+SSC	Celestia Solar System Catalog file	Celestia
+SSC	Stellarium Script	Stellarium
+ST	SMALLTALK source code file	Little Smalltalk
+STC	Celestia Star Catalog file	Celestia
+STC	OpenOffice.org XML spreadsheet template	OpenOffice.org Calc
+STD	OpenOffice.org XML drawing template	OpenOffice.org Draw
+STI	OpenOffice.org XML presentation template	OpenOffice.org Impress
+STK[6]	Stockholm multiple sequence alignment	Bioinformatics tools eg HMMER, Xrate, Jalview
+STM	SSI-enabled HTML file	Server Side Includes
+STO[6]	Stockholm multiple sequence alignment	Bioinformatics tools eg HMMER, Xrate, Jalview
+STP	Standard for the Exchange of Product Data	universal format for CAD exchange per ISO 10303
+STS	Music format (Scream Tracker Song)	ST 2.0-2.3
+STW	OpenOffice.org XML text document template	OpenOffice.org Writer
+SUR	Surface topography (in native "SURF" format)	MountainsMap
+SVC	Represents the ServiceHost instance hosted by Internet Information Services	Windows Communication Foundation
+SVG	Scalable Vector Graphics	many
+SWF[7]	Shockwave Flash	Macromedia
+SWG	SWIG source code	SWIG
+SWIFT	Swift source code	Swift (programming language)
+SWM	split Windows Imaging Format	ImageX, DISM, 7-Zip, wimlib
+SXC	OpenOffice.org XML spreadsheet	OpenOffice.org Calc
+SXD	OpenOffice.org XML drawing	OpenOffice.org Draw
+SXG	OpenOffice.org XML master document	
+SXI	OpenOffice.org XML presentation	OpenOffice.org Impress
+SXM	OpenOffice.org XML formula	OpenOffice.org Calc
+SXP	3DS Process file	3D Studio
+SXW	OpenOffice.org XML text document	OpenOffice.org Writer
+
+TAK	Audio codec, Lossless audio file format	Winamp (+Plugin), foobar2000 (+Plugin), Media Player Classic - BE
+TAR	tar archive	tar, many file archivers with TAR support
+TAZ	compressed tar archive	tar, many file archivers with TAR and COMPRESS support
+TLB[8]	Type library	A binary file with information about a COM or DCOM object so other applications can use it at runtime. Created by Visual C++ or Visual Studio. Used by many Windows applications.
+TORRENT[9]	Torrent file	BitTorrent clients (various)
+TSV[10]	Tab-separated values	
+TTF	TrueType Font file
+
+UI	Espire source code file	Geoworks UI Compiler Geos
+UI	Qt Designer's UI File	Trolltech Qt Designer
+UMP	Umple UML Programming Language Format	Umple
+UNV	Text file containing finite elements nodal coordinates and more See notes	Originally used by SDRC for its I-deas software; a lot of simulation software use it today
+UOS	Uniform Office Format spreadsheet	
+UOT	Uniform Office Format text	
+USDZ	Augmented Reality (AR) File	Apple, Pixar
+UT!	datafile	uTorrent
+
+V	Coq source file	
+V	Verilog source file	
+V4P	vvvv patch	vvvv
+V64	Nintendo 64 ROM	Nintendo 64 emulators
+VB	Visual Basic .Net source file	Visual Basic .NET
+VBOX[11]	virtual machine settings file (in XML format)	VirtualBox
+VBOX-EXTPACK[12]	VirtualBox extension package	VirtualBox
+VBPROJ	Visual Basic .Net project file	Visual Basic .Net Express and Visual Studio 2003-2010 Project
+VBR	Visual Basic Custom Control file	Visual Basic
+VBS	VBScript script file	VBScript
+VBX	Visual Basic eXtension	Visual Basic
+VC6	Graphite - 2D and 3D drafting	Ashlar-Vellum
+VCLS	VocaListener voice scanner file	VocaListener Plug-in (Vocaloid3)
+VDA	Targa bitmap graphics	many raster graphics editors
+VDI	Virtual Disk Image	VirtualBox
+VDW	Visio web drawing	Microsoft Visio
+VDX	Visio XML drawing	Microsoft Visio
+VFD	Virtual Floppy Disk	Windows Virtual PC (among others)
+VMCZ	Hyper-V Exported Virtual Machine	Microsoft
+VMDK[13]	Virtual Disk file	VMware
+VMG	Nokia message file format	Text Message Editor (Nokia PC Suite)
+VOB[14][15]	Video Object	DVD-R, DVD-RW
+VPM	Garmin Voice Processing Module	
+VPP	Visual Paradigm Project	Visual Paradigm for UML
+VQM	Hardware description language	Altera
+VS	Vellum Solids	Ashlar-Vellum
+VSD	Visio drawing	Microsoft Visio
+VSDX[16]	Visio drawing	Microsoft Visio
+VSM	Visual Simulation Model	VisSim
+VSQ	Vocal synthesizer track data	Vocaloid2, Vocaloid3
+VST	Truevision Vista graphics	many raster graphics editors
+VSTO	Microsoft Office add-in file	Microsoft Visual Studio
+VSVNBAK	VisualSVN Server repository backup	VisualSVN Server
+
+WAV	Sound format (Microsoft Windows RIFF WAVE)	Media Player
+WK1	Spreadsheet	Lotus 1-2-3 version 2.x - Lotus Symphony 1.1+
+WK3	Spreadsheet	Lotus 1-2-3 version 3.x
+WKS	Spreadsheet	Lotus 1-2-3 version 1A - Lotus Symphony 1.0, Microsoft Works
+WMA	Windows Media Audio audio file	
+WMDB	Windows Media Player database	Windows Media Player
+WMF	Windows MetaFile vector graphics	
+WOS	WoS bibliographic reference file	ISI/Clarivate Analytics
+
+X	LEX source code file	
+X	XBasic Source code file	Xbasic
+X3D	x3d and xdart Formats	
+XAR	Xara graphics file	Files created by Xara Photo & Graphic Designer (formerly Xara Xtreme and Xara Studio); early versions used the extension ART
+XAR	eXtensible ARchive	xar, 7-Zip
+XBRL	eXtensible Business Reporting Language instance file	eXtensible Business Reporting Language
+XCF	Gimp image file	GNU Image Manipulation Program
+XDM	Directory Manipulator for 32-bit Protected Mode	Xenotech Research Labs
+XE	Xenon - for Associative 3D Modeling	Ashlar-Vellum
+XEX	Xbox 360 Executable File	
+XLS[17]	Microsoft Excel Spreadsheet	Microsoft Excel
+XLSB	Microsoft Excel 2007 Binary Workbook (BIFF12)(Spreadsheets)	Microsoft Excel 2007 (see Microsoft Office 2007 file extensions)
+XLSM	Microsoft Excel 2007 Macro-Enabled Workbook (Spreadsheets)	Microsoft Excel 2007 (see Microsoft Office 2007 file extensions)
+XLSX[18]	Office Open XML Workbook (Spreadsheets)	Microsoft Excel 2007 (see Microsoft Office 2007 file extensions)
+XM	FastTracker 2 extended module	AWAVE, Mod4Win, FastTracker, ImpulseTracker
+XML	eXtensible Markup Language file	
+XMF	eXtensible Music Format	
+XP	eXtended Pattern	FastTracker 2
+XPL	X-Plane system file	Laminar research
+XPS	Open XML Paper Specification / OpenXPS	open standard document format initially created by Microsoft and similar in concept to Adobe PDF files
+XSD[19][20]	XML schema description	
+XSF	data	Microsoft InfoPath file
+XSPF	XML Sharable Playlist Format	
+XSL[21]	XSL Stylesheet	
+XSLT[21]	XSLT file	
+XSN	Microsoft InfoPath template	Microsoft InfoPath
+XX	XX-encoded file (ASCII)	XXDECODE
+XXE	XX-encoded file (ASCII)	XXDECODE
+XXX	Singer Embroidery Format	Embroidermodder
+XYZ	Molecular coordinates	XMol, RasMol
+XZ	a lossless data compression file format incorporating the LZMA/LZMA2 compression algorithms.	xz
+
+Y	YACC grammar file	Yacc/Bison
+YML[22]	YML markup file	domain specific language output to XML
+YAML[23]	YAML source file	YAML (data serialization language)
+
+ZIP[24]	Zip (file format)	PKZip - WinZip - Mac OS X
+ZS	Script for Minecraft mod MineTweaker[25] and CraftTweaker[26]	Minecraft Mods
