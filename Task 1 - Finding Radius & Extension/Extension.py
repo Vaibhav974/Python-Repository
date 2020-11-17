@@ -1,7 +1,8 @@
 import sys
+import os
 
 File_Name = input("  Enter File Name or Extension to Look Up for Extension Type   : ")
-File_Path = "C:\\Users\\Vaibh\\Desktop\\ \\2nd Year\\S3\\Projects\\MyCaptain\\3. Python Programming\\Tasks\\Python Programming\\Task 1\\Extensions.txt"
+File_Path = os.path.join(os.path.dirname(__file__), "Extensions.txt")
 
 def Filter(Data):
     i=0
@@ -19,6 +20,7 @@ def Extension_Extract(Data):
         i += 1
     return Data
 
+
 with open(File_Path, "r") as Ext_File:
     Extensions = Ext_File.readlines()
 
@@ -29,5 +31,5 @@ with open(File_Path, "r") as Ext_File:
         if Extension_Extract(File_Name).lower() == Extension[0].lower():
             print("   Description  : " + Extension[1])
             sys.exit()
-    
+
     print(" Sorry, Extension not Available in Database :(")
