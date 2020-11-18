@@ -1,6 +1,10 @@
 import math
 
 def Is_Float(k):
+    """ 
+      Checks, if a String is Convertible to float type or Not and Returns corresponding Boolean Value
+      It expects a String as Argument
+    """
     try:
         float(k)
         return True
