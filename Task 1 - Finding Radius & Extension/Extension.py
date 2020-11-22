@@ -43,7 +43,7 @@ with open(File_Path, "r") as Ext_File:
         Extension = Extension.split("\t")
         Extension[0] = Filter(Extension[0])
 
-        if Extension_Extract(File_Name).lower() == Extension[0].lower():
+        if Extension_Extract(File_Name).casefold() == Extension[0].casefold():
             print("   Description  : " + Extension[1])
             sys.exit()
 
